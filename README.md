@@ -1,5 +1,5 @@
 ### Hi there 👋
-### 🌱 I’m currently learning about web development
+### I’m currently learning about web development 🌱
 <div>
 <a href="https://github.com/rfreir3">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rfreir3&layout=compact&langs_count=7&theme=midnight-purple"/>
